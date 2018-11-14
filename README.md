@@ -12,7 +12,7 @@ npm install -g javascripting
 Learn the basics of node: asynchronous i/o, http.
 npm install -g learnyounode
 
-### <p><span style="text-decoration: underline;">git-it</span></p>
+<h3><span style="text-decoration: underline;">git-it</span></h3>
 Learn Git and GitHub basics.
 Download the latest desktop app release.
 
