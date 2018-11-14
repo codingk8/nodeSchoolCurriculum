@@ -12,7 +12,7 @@ npm install -g javascripting
 Learn the basics of node: asynchronous i/o, http.
 npm install -g learnyounode
 
-### <span style="color: red;">git-it</span>
+### <span style="text-decoration: underline;">git-it</span>
 Learn Git and GitHub basics.
 Download the latest desktop app release.
 
@@ -20,7 +20,7 @@ Download the latest desktop app release.
 Learn how to use and create npm modules.
 npm install -g how-to-npm
 
-#### stream-adventure
+### stream-adventure
 Learn to compose streaming interfaces with .pipe().
 npm install -g stream-adventure
 
