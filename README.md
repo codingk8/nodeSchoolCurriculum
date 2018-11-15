@@ -9,19 +9,19 @@
 ## 1. Core
 
 ### [x] javascripting (201801)
-Learn the basics of JavaScript. No previous programming experience required.
+Learn the basics of JavaScript. No previous programming experience required.  
 npm install -g javascripting
 
 ### [ ] learnyounode (doing)
-Learn the basics of node: asynchronous i/o, http.
+Learn the basics of node: asynchronous i/o, http.  
 npm install -g learnyounode
 
 ### [ ] git-it
-Learn Git and GitHub basics.
+Learn Git and GitHub basics.  
 Download the latest desktop app release.
 
 ### [ ] how to npm
-Learn how to use and create npm modules.
+Learn how to use and create npm modules.  
 npm install -g how-to-npm
 
 #### _stream-adventure_
@@ -29,11 +29,11 @@ _Learn to compose streaming interfaces with .pipe().
 npm install -g stream-adventure_
 
 ### [x] how-to-markdown (201811)
-Learn how to start using Markdown — a lightweight markup language with plain text formatting syntax.
+Learn how to start using Markdown — a lightweight markup language with plain text formatting syntax.  
 npm install -g how-to-markdown
 
 ### [ ] learnyouhtml
-Learn how to create your first web page.
+Learn how to create your first web page.  
 npm install -g learnyouhtml
 
 #### _Elementary electron_
@@ -45,7 +45,7 @@ npm install -g elementary-electron_
 ## 2. Elective
 
 ### [ ] Functional JavaScript
-Learn fundamental functional programming features of JavaScript in vanilla ES5.
+Learn fundamental functional programming features of JavaScript in vanilla ES5.  
 npm install -g functional-javascript-workshop
 
 #### _Shader School_
@@ -61,11 +61,11 @@ _Learn how to manipulate binary data in node.js and HTML5 browsers.
 npm install -g bytewiser_
 
 ### [ ] ExpressWorks
-Learn the basics of the Express.js framework.
+Learn the basics of the Express.js framework.  
 npm install -g expressworks
 
 ### [ ] Bug clinic
-Learn some new tools and techniques as you improve your debugging skills.
+Learn some new tools and techniques as you improve your debugging skills.  
 npm install -g bug-clinic
 
 #### _Make Me Hapi_
@@ -77,7 +77,7 @@ _Use npm modules and node-style require() in the browser with browserify.
 npm install -g browserify-adventure_
 
 ### [ ] Promise it won’t hurt
-Learn to use promises in JavaScript to handle async operations.
+Learn to use promises in JavaScript to handle async operations.  
 npm install -g promise-it-wont-hurt
 
 #### _Intro to WebGL_
@@ -85,11 +85,11 @@ _Get started with three.js and WebGL.
 npm install -g introtowebgl_
 
 ### [ ] Async you
-Learn to use the async package.
+Learn to use the async package.  
 npm install -g async-you
 
 ### [ ] Count to 6
-Learn how to use some features from ES6, the next version of JavaScript.
+Learn how to use some features from ES6, the next version of JavaScript.  
 npm install -g count-to-6
 
 #### _NodeBot workshop_
@@ -117,39 +117,39 @@ _Learn uv for fun and profit, a self guided workshop to the library that powers 
 git clone https://github.com/thlorenz/learnuv.git && cd learnuv && npm install_
 
 ### [ ] ESNext generation
-Intro to ES6 Iterators, their use, and how they relate to Generators.
+Intro to ES6 Iterators, their use, and how they relate to Generators.  
 npm install -g esnext-generation
 
 ### [ ] Learn generators
-An Intro to JavaScript ES6 Generators.
+An Intro to JavaScript ES6 Generators.  
 npm install -g learn-generators
 
 ### [ ] Test anything
-Learn to test your code
+Learn to test your code  
 npm install -g test-anything
 
 ### [ ] Learn you React
-Let's learn React.js and server side rendering!
+Let's learn React.js and server side rendering!  
 npm install -g learnyoureact
 
 ### Tower of babel
-Show you through a series of exercises that introduce you to ES6 features.
+Show you through a series of exercises that introduce you to ES6 features.  
 npm install -g tower-of-babel
 
 ### perfschool
-Find your way through the web performance optimization maze!
+Find your way through the web performance optimization maze!  
 npm install -g perfschool
 
 ### learn you mongo
-Getting started with MongoDB and Node.js
+Getting started with MongoDB and Node.js  
 npm install -g learnyoumongo
 
 ### Web audio school
-Learn the Web Audio API by completing a series of interactive lessons with a focus on music.
+Learn the Web Audio API by completing a series of interactive lessons with a focus on music.  
 npm install -g web-audio-school
 
 ### [ ] regex-adventure
-Parse text with regular expressions
+Parse text with regular expressions  
 npm install -g regex-adventure
 
 #### _torrential_
@@ -157,11 +157,11 @@ _A set of lessons to show you how to create a simple p2p bittorrent network
 npm install -g torrential_
 
 ### [ ] learn sass
-Learn the basics of SASS
+Learn the basics of SASS  
 npm install -g learn-sass
 
 ### [ ] Thinking in React
-Learn React's philosophy by building a UI from scratch.
+Learn React's philosophy by building a UI from scratch.  
 npm install -g thinking-in-react
 
 #### _Pattern Lab workshop_
@@ -169,11 +169,11 @@ _Learn the basics of Pattern Lab.
 npm install -g pattern-lab-workshop_
 
 ### [ ] Post-mortem debugging
-Learn how to use post-mortem debugging on SmartOS to efficiently debug Node.js applications in production.
+Learn how to use post-mortem debugging on SmartOS to efficiently debug Node.js applications in production.  
 npm install -g node-debug-school
 
 ### [ ] learn you bash
-Learn you how to use the terminal and write your first Bash script.
+Learn you how to use the terminal and write your first Bash script.  
 npm install -g learnyoubash
 
 #### _Seneca in practice_
@@ -181,11 +181,11 @@ _Learn how to leverage SenecaJs microservice toolkit.
 npm install -g seneca-in-practice_
 
 ### [ ] Currying in JS
-Learn currying concept and creating a currying function in JavaScript.
+Learn currying concept and creating a currying function in JavaScript.  
 npm install -g currying-workshopper
 
 ### [ ] LESS is more
-Learn the fundamentals of the LESS CSS preprocessor.
+Learn the fundamentals of the LESS CSS preprocessor.  
 npm install -g less-is-more
 
 #### _bacon-love_
@@ -193,7 +193,7 @@ _Learn concepts of Functional and Reactive Programming using the Bacon.js librar
 npm install -g bacon-love_
 
 ### [ ] JS best practices
-Learn the best practices of writing clean JavaScript code.
+Learn the best practices of writing clean JavaScript code.  
 npm install -g js-best-practices
 
 #### _inner source adventure_
@@ -201,7 +201,7 @@ _Learn about InnerSource software development.
 npm install -g innersourceadventure_
 
 ### [ ] Scope chains and closures
-Learn the details of Scope, Scope Chains, Closures, and Garbage Collection.
+Learn the details of Scope, Scope Chains, Closures, and Garbage Collection.  
 npm i @workshoppers/scope-chains-closures -g
 scope-chains-closures
 
