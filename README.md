@@ -201,4 +201,4 @@ Learn the details of Scope, Scope Chains, Closures, and Garbage Collection.
 npm i @workshoppers/scope-chains-closures -g
 scope-chains-closures
 
-:sunglasses: The end :heart_eyes:
+:sunglasses: The end  :heart_eyes:
