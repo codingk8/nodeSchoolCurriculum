@@ -24,8 +24,8 @@ Download the latest desktop app release.
 Learn how to use and create npm modules.
 npm install -g how-to-npm
 
-#### _stream-adventure
-Learn to compose streaming interfaces with .pipe().
+#### _stream-adventure_
+_Learn to compose streaming interfaces with .pipe().
 npm install -g stream-adventure_
 
 ### [x] how-to-markdown (201811)
@@ -36,8 +36,8 @@ npm install -g how-to-markdown
 Learn how to create your first web page.
 npm install -g learnyouhtml
 
-#### _Elementary electron
-Make a desktop application using Node and Chromium with Electron
+#### _Elementary electron_
+_Make a desktop application using Node and Chromium with Electron
 npm install -g elementary-electron_
 
 ---
@@ -48,16 +48,16 @@ npm install -g elementary-electron_
 Learn fundamental functional programming features of JavaScript in vanilla ES5.
 npm install -g functional-javascript-workshop
 
-#### _Shader School
-Learn the fundamentals of graphics programming using GLSL shaders.
+#### _Shader School_
+_Learn the fundamentals of graphics programming using GLSL shaders.
 npm install -g shader-school_
 
-#### _Level Me Up Scotty!
-Learn to use leveldb, a simple key/value store with a vibrant package.
+#### _Level Me Up Scotty!_
+_Learn to use leveldb, a simple key/value store with a vibrant package.
 npm install -g levelmeup_
 
-#### _Bytewiser
-Learn how to manipulate binary data in node.js and HTML5 browsers.
+#### _Bytewiser_
+_Learn how to manipulate binary data in node.js and HTML5 browsers.
 npm install -g bytewiser_
 
 ### [ ] ExpressWorks
@@ -68,20 +68,20 @@ npm install -g expressworks
 Learn some new tools and techniques as you improve your debugging skills.
 npm install -g bug-clinic
 
-#### _Make Me Hapi
-Learn all about hapi through a series of challenges.
+#### _Make Me Hapi_
+_Learn all about hapi through a series of challenges.
 npm install -g makemehapi_
 
-#### _Browserify adventure
-Use npm modules and node-style require() in the browser with browserify.
+#### _Browserify adventure_
+_Use npm modules and node-style require() in the browser with browserify.
 npm install -g browserify-adventure_
 
 ### [ ] Promise it won’t hurt
 Learn to use promises in JavaScript to handle async operations.
 npm install -g promise-it-wont-hurt
 
-#### _Intro to WebGL
-Get started with three.js and WebGL.
+#### _Intro to WebGL_
+_Get started with three.js and WebGL.
 npm install -g introtowebgl_
 
 ### [ ] Async you
