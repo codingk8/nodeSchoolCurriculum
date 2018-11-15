@@ -92,28 +92,28 @@ npm install -g async-you
 Learn how to use some features from ES6, the next version of JavaScript.
 npm install -g count-to-6
 
-#### _NodeBot workshop
-Make robots with the johnny-five api.
+#### _NodeBot workshop_
+_Make robots with the johnny-five api.
 npm install -g nodebot-workshop_
 
-#### _Kick off Koa
-Getting started with Koa, the next generation web framework for Node.js.
+#### _Kick off Koa_
+_Getting started with Koa, the next generation web framework for Node.js.
 npm install -g kick-off-koa_
 
-#### _Going Native
-An exploration of Node.js from the underside: native C++ add-ons.
+#### _Going Native_
+_An exploration of Node.js from the underside: native C++ add-ons.
 npm install -g goingnative_
 
-#### _LololoDash
-Learn Lo-Dash (fork of underscore) to handle your arrays and objects simple!
+#### _LololoDash_
+_Learn Lo-Dash (fork of underscore) to handle your arrays and objects simple!
 npm install -g lololodash_
 
-#### _Planet Proto
-Learn the basics of WebGL in small, manageable chunks.
+#### _Planet Proto_
+_Learn the basics of WebGL in small, manageable chunks.
 npm install -g webgl-workshop_
 
-#### _Learnuv
-Learn uv for fun and profit, a self guided workshop to the library that powers Node.js.
+#### _Learnuv_
+_Learn uv for fun and profit, a self guided workshop to the library that powers Node.js.
 git clone https://github.com/thlorenz/learnuv.git && cd learnuv && npm install_
 
 ### [ ] ESNext generation
@@ -152,8 +152,8 @@ npm install -g web-audio-school
 Parse text with regular expressions
 npm install -g regex-adventure
 
-#### _torrential
-A set of lessons to show you how to create a simple p2p bittorrent network
+#### _torrential_
+_A set of lessons to show you how to create a simple p2p bittorrent network
 npm install -g torrential_
 
 ### [ ] learn sass
@@ -164,8 +164,8 @@ npm install -g learn-sass
 Learn React's philosophy by building a UI from scratch.
 npm install -g thinking-in-react
 
-#### _Pattern Lab workshop
-Learn the basics of Pattern Lab.
+#### _Pattern Lab workshop_
+_Learn the basics of Pattern Lab.
 npm install -g pattern-lab-workshop_
 
 ### [ ] Post-mortem debugging
@@ -176,8 +176,8 @@ npm install -g node-debug-school
 Learn you how to use the terminal and write your first Bash script.
 npm install -g learnyoubash
 
-#### _Seneca in practice
-Learn how to leverage SenecaJs microservice toolkit.
+#### _Seneca in practice_
+_Learn how to leverage SenecaJs microservice toolkit.
 npm install -g seneca-in-practice_
 
 ### [ ] Currying in JS
@@ -188,16 +188,16 @@ npm install -g currying-workshopper
 Learn the fundamentals of the LESS CSS preprocessor.
 npm install -g less-is-more
 
-#### _bacon-love
-Learn concepts of Functional and Reactive Programming using the Bacon.js library.
+#### _bacon-love_
+_Learn concepts of Functional and Reactive Programming using the Bacon.js library.
 npm install -g bacon-love_
 
 ### [ ] JS best practices
 Learn the best practices of writing clean JavaScript code.
 npm install -g js-best-practices
 
-#### _inner source adventure
-Learn about InnerSource software development.
+#### _inner source adventure_
+_Learn about InnerSource software development.
 npm install -g innersourceadventure_
 
 ### [ ] Scope chains and closures
