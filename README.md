@@ -1,14 +1,16 @@
-# nodeSchoolCurriculum (201811)
+# nodeSchool_Curriculum
+
+#### Last update: 20181115
 
 [Node School website](https://nodeschool.io/index.html)
 
 ## 1. Core
 
-### *javascripting (201801)*
+### _javascripting (201801)_
 Learn the basics of JavaScript. No previous programming experience required.
 npm install -g javascripting
 
-### *learnyounode (doing)*
+### _learnyounode (doing)_
 Learn the basics of node: asynchronous i/o, http.
 npm install -g learnyounode
 
@@ -24,7 +26,7 @@ npm install -g how-to-npm
 Learn to compose streaming interfaces with .pipe().
 npm install -g stream-adventure
 
-### how-to-markdown (next)
+### _how-to-markdown (201811)_
 Learn how to start using Markdown — a lightweight markup language with plain text formatting syntax.
 npm install -g how-to-markdown
 
@@ -198,3 +200,5 @@ npm install -g innersourceadventure
 Learn the details of Scope, Scope Chains, Closures, and Garbage Collection.
 npm i @workshoppers/scope-chains-closures -g
 scope-chains-closures
+
+:sunglasses: The end :heart_eyes:
