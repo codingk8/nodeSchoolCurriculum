@@ -44,7 +44,7 @@ npm install -g elementary-electron_
 
 ## 2. Elective
 
-### [ ] Functional JavaScript (JS)
+### [ ] Functional JavaScript (JS - in progress ?))
 Learn fundamental functional programming features of JavaScript in vanilla ES5.  
 npm install -g functional-javascript-workshop
 
