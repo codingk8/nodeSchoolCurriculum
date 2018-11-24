@@ -88,7 +88,7 @@ npm install -g introtowebgl_
 Learn to use the async package.  
 npm install -g async-you
 
-### [ ] Count to 6 (in progress - JS ES6)
+### [x] Count to 6 (201811)
 Learn how to use some features from ES6, the next version of JavaScript.  
 npm install -g count-to-6
 
