@@ -12,7 +12,7 @@
 Learn the basics of JavaScript. No previous programming experience required.  
 npm install -g javascripting
 
-### [ ] learnyounode (in progress - Node)
+### [/] learnyounode (in progress - Node)
 Learn the basics of node: asynchronous i/o, http.  
 npm install -g learnyounode
 
@@ -44,7 +44,7 @@ npm install -g elementary-electron_
 
 ## 2. Elective
 
-### [ ] Functional JavaScript (in progress - JS)
+### [/] Functional JavaScript (in progress - JS)
 Learn fundamental functional programming features of JavaScript in vanilla ES5.  
 npm install -g functional-javascript-workshop
 
@@ -148,7 +148,7 @@ npm install -g learnyoumongo
 Learn the Web Audio API by completing a series of interactive lessons with a focus on music.  
 npm install -g web-audio-school
 
-### [ ] regex-adventure (support - Regex)
+### [/] regex-adventure (in progress - support - Regex)
 Parse text with regular expressions  
 npm install -g regex-adventure
 
