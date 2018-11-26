@@ -91,6 +91,7 @@ npm install -g async-you
 ### [x] Count to 6 (201811)
 Learn how to use some features from ES6, the next version of JavaScript.  
 npm install -g count-to-6
+[In :fr:](https://github.com/codingk8/nodeSchool_Curriculum/blob/master/count_to_6.js)
 
 #### _NodeBot workshop_
 _Make robots with the johnny-five api.
