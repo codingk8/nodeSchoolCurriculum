@@ -125,7 +125,7 @@ npm install -g esnext-generation
 An Intro to JavaScript ES6 Generators.  
 npm install -g learn-generators
 
-### [ ] Test anything (JS)
+### [ ] Test anything (JS - tests)
 Learn to test your code  
 npm install -g test-anything
 
