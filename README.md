@@ -207,3 +207,7 @@ npm i @workshoppers/scope-chains-closures -g
 scope-chains-closures
 
 ---
+
+## Winter anyone ? :snowman:
+
+<p align="center"><img src="https://media.giphy.com/media/26FLdaDQ5f72FPbEI/giphy.gif" alt="Xmas coming!"/></p>
