@@ -1,6 +1,6 @@
 <h1 align="center">nodeSchool_Curriculum</h1>
 
-#### _Last update: 20181115_
+#### _Last update: 20181125_
 
 [Node School website](https://nodeschool.io/index.html)
 
