@@ -30,8 +30,8 @@ npm install -g stream-adventure_
 
 ### [x] how-to-markdown (201811)
 Learn how to start using Markdown — a lightweight markup language with plain text formatting syntax.  
-npm install -g how-to-markdown  
-#### [See here](https://github.com/codingk8/markdown_Memo)
+npm install -g how-to-markdown
+#### [Details](https://github.com/codingk8/markdown_Memo)
 
 ### [ ] learnyouhtml (html)
 Learn how to create your first web page.  
