@@ -6,6 +6,16 @@
 
 ---
 
+<h2 align="center">Recap</h2>
+
+### Done: javascripting, how-to-markdown, Count to 8
+
+### In progress: learnyounode, Functional JavaScript, regex-adventure
+
+### Next: Test anything, Learn you React
+
+---
+
 ## 1. Core
 
 ### [x] javascripting (201801)
