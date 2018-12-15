@@ -8,11 +8,11 @@
 
 <h2 align="center">Recap</h2>
 
-### Done: javascripting, how-to-markdown, Count to 8
+### :thumbs-up: Done: javascripting, how-to-markdown, Count to 8
 
-### In progress: learnyounode, Functional JavaScript, regex-adventure
+### :feet: In progress: learnyounode, Functional JavaScript, regex-adventure
 
-### Next: Test anything, Learn you React
+### :dart: Next: Test anything, Learn you React
 
 ---
 
